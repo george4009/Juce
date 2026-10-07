@@ -1,0 +1,5 @@
+Builds/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+Backups/
